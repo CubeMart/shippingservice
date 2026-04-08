@@ -8,13 +8,13 @@ The Shipping service provides shipping quotes, tracking IDs, and fulfillment flo
 
 ## Local
 
-Run the following command to restore dependencies to `vendor/` directory:
+Run the following command from the repo root to vendor Go dependencies locally:
 
-    dep ensure --vendor-only
+    go mod vendor
 
 ## Build
 
-From `src/shippingservice`, run:
+From the repo root, run:
 
 ```
 docker build ./
