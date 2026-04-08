@@ -1,6 +1,6 @@
-# Shipping Service
+# CubeMart Shipping Service
 
-The Shipping service provides price quote, tracking IDs, and the impression of order fulfillment & shipping processes.
+The Shipping service provides shipping quotes, tracking IDs, and fulfillment flow support for CubeMart orders.
 
 ## Local
 
